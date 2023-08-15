@@ -1,0 +1,118 @@
+.home-principal {
+
+    header {
+        background-color: #f6f6f6;
+        height: 100px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    header > img {
+        height: 70px;
+        width: 70px;
+        margin-left: 20px;
+    }
+
+    header > h1 {
+        color: #C2C2C2;
+    }
+
+    .conteudo > h1 {
+        color: #746A6A; 
+        text-align: center;
+        margin-top: 200px;
+    }
+
+    .conteiner {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .conteiner-esquerdo {
+        height: 43vh;
+        width: 24vw;
+        background-color: #CACACA;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .conteiner-direito {
+        height: 43vh;
+        width: 24vw;
+        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+    .valortotal h1 {
+        font-size: 20px;
+    }
+
+    .valortotal input {
+        padding: 10px 100px;
+        border-radius: 3px;
+    }
+
+
+    .blocodeparcelasejurosmensal {
+        display: flex;
+        flex-direction: row;
+        margin-top: 10px;
+    }
+
+
+    .bloco-esq h1 {
+        font-size: 20px;
+    }
+
+    .bloco-dire h1 {
+        font-size: 20px;
+    }
+
+
+    .bloco-esq input {
+        padding: 10px 8px;
+        border-radius: 3px;
+
+    }
+
+    .bloco-dire input {
+        padding: 10px 8px;
+        border-radius: 3px;
+    }
+
+    .botao-calcular {
+        margin-top: 30px;
+        
+    }
+
+    .botao-calcular button {
+        text-decoration: none;
+        background-color: #0084FF;
+        border: none;
+        border-radius: 3px;
+        padding: 15px 156px;
+        color: #fff;
+    }
+
+    .parcelaevalortotal {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+    }
+
+
+
+
+
+}
+
+

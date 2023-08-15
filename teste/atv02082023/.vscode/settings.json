@@ -1,0 +1,213 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code Retina, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontSize": 14,
+    "git.enableSmartCommit": true,
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "functions": "#ceb735",
+            "keywords": "#9a7adf",
+            "types": "#24d4b1",
+            "strings": "#e78651",
+            "variables": "#5daed5",
+            "numbers": "#96e5a8",
+            "textMateRules": [
+                {
+                    "scope":"",
+                    "settings": {
+                        "foreground": "#ff0000",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.operator",
+                    "settings": {
+                        "foreground": "#d2c057",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.operator.new",
+                    "settings": {
+                        "foreground": "#9a7fd5",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"storage.modifier",
+                    "settings": {
+                        "foreground": "#9a7adf",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"support.class",
+                    "settings": {
+                        "foreground": "#24d4b1",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"variable.parameter",
+                    "settings": {
+                        "foreground": "#5daed5",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.other.using",
+                    "settings": {
+                        "foreground": "#c97ec2",
+                        "fontStyle": ""
+                    }
+                },
+                {
+                    "scope":"storage.type.new",
+                    "settings": {
+                        "foreground": "#d55dad",
+                        "fontStyle": ""
+                    }       
+                }
+            ]
+        }
+    },
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "editor.background": "#242424"
+        }
+    },
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "editor.codeLens": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnType": true,
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "editor.inlayHints.enabled": "off",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "[javascript]": {
+      "editor.tabSize": 2,
+    },
+
+
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code Retina, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontSize": 14,
+    "git.enableSmartCommit": true,
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "functions": "#ceb735",
+            "keywords": "#9a7adf",
+            "types": "#24d4b1",
+            "strings": "#e78651",
+            "variables": "#5daed5",
+            "numbers": "#96e5a8",
+            "textMateRules": [
+                {
+                    "scope":"",
+                    "settings": {
+                        "foreground": "#ff0000",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.operator",
+                    "settings": {
+                        "foreground": "#d2c057",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.operator.new",
+                    "settings": {
+                        "foreground": "#9a7fd5",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"storage.modifier",
+                    "settings": {
+                        "foreground": "#9a7adf",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"support.class",
+                    "settings": {
+                        "foreground": "#24d4b1",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"variable.parameter",
+                    "settings": {
+                        "foreground": "#5daed5",
+                        "fontStyle": ""
+                    }       
+                },
+                {
+                    "scope":"keyword.other.using",
+                    "settings": {
+                        "foreground": "#c97ec2",
+                        "fontStyle": ""
+                    }
+                },
+                {
+                    "scope":"storage.type.new",
+                    "settings": {
+                        "foreground": "#d55dad",
+                        "fontStyle": ""
+                    }       
+                }
+            ]
+        }
+    },
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "editor.background": "#242424"
+        }
+    },
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "editor.codeLens": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnType": true,
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "editor.inlayHints.enabled": "off",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "[javascript]": {
+      "editor.tabSize": 2,
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts, ${capture}.query.js, ${capture}.modify.js, ${capture}.styled.js"
+    },
+    "thunder-client.saveToWorkspace": true,
+    "mdb.confirmRunAll": false,
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Default Dark+"
+}

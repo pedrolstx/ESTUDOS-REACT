@@ -1,0 +1,77 @@
+.principal {
+  background-color: #0D0D0D;
+  height: 100vh;
+  background-image: url('../../../public/assets/images/image 6.png');
+  background-repeat: no-repeat;
+  
+
+
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 10px;
+  
+  
+  .portifolio {
+    display: flex;
+    flex-direction: row;
+    
+    padding: 9px;
+  
+     p {
+      color: #fff;
+      padding: 10px;
+  
+    }
+
+  }
+
+
+  .titulos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    width: 700px;
+
+
+    p {
+      color: #fff;
+    }
+    
+    input {
+      height: 32px;
+      width: 481px;
+      border: #fff;
+      border-radius: 3px;
+      background-color: #8f8f8f;
+    }
+
+    .lupa {
+      position: relative;
+      right: 50px;
+    }
+
+
+  }
+
+  
+
+  
+  
+  }
+
+
+
+
+
+
+
+
+
+
+}
